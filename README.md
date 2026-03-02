@@ -1,4 +1,4 @@
-# E‑Commerce Dashboard (React Interview Task)
+# E‑Commerce Dashboard 
 
 Authentication‑based e‑commerce dashboard built with **React + Vite**, **React Router**, and **Tailwind CSS**, using only **public APIs and browser storage** (no custom backend), as per the assignment PDF.
 
@@ -84,5 +84,4 @@ Build for production:
 npm run build
 ```
 
-The `dist` folder can be deployed to any static host (e.g. **Vercel**, **Netlify**). Use the default Vite React template settings; no special configuration is required besides setting the build output as the deploy directory.
-
+Build with Rounak 
